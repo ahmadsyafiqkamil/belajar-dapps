@@ -1,6 +1,6 @@
 [submodule "foundry"]
 	path = foundry
-	url = ./foundry
+	url = https://github.com/ahmadsyafiqkamil/foundy-belajar-dapps.git
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/ahmadsyafiqkamil/frontend-belajar-dapps.git
