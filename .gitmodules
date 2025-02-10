@@ -1,0 +1,6 @@
+[submodule "foundry"]
+	path = foundry
+	url = ./foundry
+[submodule "frontend"]
+	path = frontend
+	url = ./frontend
